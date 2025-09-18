@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d90274f6-1ffe-4f4c-be46-4a913b2e9369" name="Изменения" comment="">
-      <change beforePath="$PROJECT_DIR$/../Kropp Fitness/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kropp Fitness/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dc468df8-48b9-4098-934a-27a42ae97495" name="Изменения" comment="">
+      <change afterPath="$PROJECT_DIR$/scripts/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Future Tech.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,15 +29,17 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/vovaQsok/Lamkovs-courses.git",
+    "url": "git@github.com:vovaQsok/FutureTech.git",
     "accountId": "faa90a42-c72a-4e07-884b-c811262c1b8d"
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
+  "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="32ph79ROPxUs41TDLP7XfvRinjE" />
+  <component name="ProjectId" id="32szVF9ay2xwBKzQypZsn4PRZGV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,13 +50,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Learning/Ламков Курс/Future Tech",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editing.templates",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -61,12 +72,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Задача по умолчанию">
-      <changelist id="d90274f6-1ffe-4f4c-be46-4a913b2e9369" name="Изменения" comment="" />
-      <created>1758123251430</created>
+      <changelist id="dc468df8-48b9-4098-934a-27a42ae97495" name="Изменения" comment="" />
+      <created>1758224090107</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1758123251430</updated>
-      <workItem from="1758123252644" duration="1343000" />
+      <updated>1758224090107</updated>
+      <workItem from="1758224091389" duration="1332000" />
     </task>
     <servers />
   </component>
